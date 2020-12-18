@@ -34,7 +34,7 @@ To accomplish this problem, we did the following:
 1. Modeling and Evaluation
     - We used regression modeling, attempting to predict sentiment score, using R-Squared as our metric.
     - We also used classification modeling, attempting to predict if a tweet would have a positive, neutral or negative sentiment score, using accuracy as our metric.
-    - 
+
 ## Data Sources:
 [Tweet dataset from IEEE](https://ieee-dataport.org/open-access/corona-virus-covid-19-geolocation-enabled-tweets-dataset)  
 [New York Times Information on COVID-19 Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)  
